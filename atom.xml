@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaochaiblog.github.io</id>
     <title>小柴博客chaiblog</title>
-    <updated>2020-06-21T01:02:12.104Z</updated>
+    <updated>2020-06-21T01:03:31.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaochaiblog.github.io"/>
     <link rel="self" href="https://xiaochaiblog.github.io/atom.xml"/>
-    <subtitle>emmmm,我也不知道要写什么，所以就这样吧！</subtitle>
+    <subtitle>让每一天变得更好吧！</subtitle>
     <logo>https://xiaochaiblog.github.io/images/avatar.png</logo>
     <icon>https://xiaochaiblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小柴博客chaiblog</rights>
